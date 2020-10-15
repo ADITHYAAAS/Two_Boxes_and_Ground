@@ -1,1 +1,1 @@
-# Two_Boxes_and_Ground
+# Box Class
